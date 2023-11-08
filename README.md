@@ -12,6 +12,6 @@
 + CONF_THRESHOLD：陽性と判定するYOLO確信度の閾値
   <br/>
 3. 実行
-* python scripts/cross_validation.py
+'python scripts/cross_validation.py'
 <br/>
 4. {ROOT_DIR_OUTPUT}/exp*/results/batch*/ConfusuinMatrix.csvに各検証結果としての混合行列データが出力される．
