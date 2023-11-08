@@ -7,7 +7,7 @@
 + ROOT_DIR_OUTPUT：データの出力先（そのままでよい）
 + LIST_CLASSES：labelImgで定義したクラス名のリスト（labelImgで定義した順で）
 + SPLIT_NUM：交差検証における分割数
-+ IOU_THRESHOLD：真陽性と判定するIOUの閾値
++ IOU_THRESHOLD：真陽性と判定するIoUの閾値
 + CONF_THRESHOLD：陽性と判定するYOLO確信度の閾値
   
 3. 実行
